@@ -1,19 +1,14 @@
 {
   "products": [
     {
-      "id": 1,
-      "name": "Caneta",
-      "price": 5.89
-    },
-    {
       "id": 2,
-      "name": "Balde",
-      "price": 15.89
+      "name": "Pinga",
+      "price": "2.99"
     },
     {
       "id": 3,
       "name": "mouse",
-      "price": 35.89
+      "price": "35.89"
     }
   ]
 }
